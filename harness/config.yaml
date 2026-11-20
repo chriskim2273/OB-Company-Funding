@@ -1,0 +1,8 @@
+subject: tool_call
+fields:
+- latest_stage
+- amount
+- announced_on
+boards:
+- enrichment
+- freshness
